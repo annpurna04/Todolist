@@ -16,3 +16,15 @@ This C++ console application, called To-Do List, is intended to assist you in ef
 
 ### Exiting the Application
 - Choose the exit option from the menu to save your tasks and close the application.
+  
+### Technologies Used
+
+- Programming Language: C++
+- Data Structures: Vector for storing tasks
+- Console I/O: Input and output handling for user interaction
+### Contributing
+
+Contributions are welcome! Feel free to open an issue or create a pull request if you find any bugs or have suggestions for improvement.
+### Contact
+
+For any questions or suggestions, please contact [annpurnagupta040401@gmail.com].
